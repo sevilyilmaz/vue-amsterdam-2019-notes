@@ -52,8 +52,8 @@ A plugin needs
 
 ## Jest tests for Vue - Roman Kuba
 - it started with **revue** and it's revolved into **vue-test-utils**
-- `Merak/Faker.js` check this out
+- [marak/faker.js](https://github.com/marak/Faker.js/) - Fake data generator
 - Create a factory function (a builder) to create wrappers
 - Acceptence tests
-- `snapshot-diff` and `vue-snapshot-serialiser` packages that helps with snapshots
+- [snapshot-diff](https://github.com/jest-community/snapshot-diff) and [jest-serializer-vue](https://github.com/eddyerburgh/jest-serializer-vue) packages that helps with snapshots
 - [codeship/jest-acceptence](https://github.com/codeship/jest-acceptance) for acceptence tests
