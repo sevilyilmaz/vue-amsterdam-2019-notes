@@ -3,10 +3,10 @@
 ## Creating VueCLI plugins - Guillaume
 
 - @vue/cli
--- Creating projects 
--- Adding plugins
+  - Creating projects 
+  - Adding plugins
 - @vue/cli-service
--- Webpack config etc.
+  - Webpack config etc.
 
 A plugin needs
 - `package.json`

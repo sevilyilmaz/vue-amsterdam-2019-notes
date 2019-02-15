@@ -29,15 +29,15 @@
 
 ### With 2.6
 - From component it will be possible to call API as async operations
--- This will allow us to componentize apps with their individual actions
+  - This will allow us to componentize apps with their individual actions
 - State is injected after the page is rendered
 
 create component instance - prefetch data - render - continue with every componenets ([life cycle with 2.6](../photos/with-2.6.jpg))
 
 ## Case Study: L'Oreal - Tim Benninks
 - L'Oreal made a goal to reduce the 3000+ websites that they have to 800. 
--- Every website that is newly created is need to have the same technology stack
--- Every tech team has the same KPIs (for scalibility, security, maintainability etc.)
+  - Every website that is newly created is need to have the same technology stack
+  - Every tech team has the same KPIs (for scalibility, security, maintainability etc.)
 - L'Oreal has 60 markets that need localizations which are product first approaches
 - Some KPIs that they have
   - A11y AA, no-js version, SEO, mobile first, progressively enhanced, async/lazy, fast.
