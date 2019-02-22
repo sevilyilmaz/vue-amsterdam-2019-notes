@@ -85,4 +85,4 @@ create component instance - prefetch data - render - continue with every compone
 ## Design Patterns for Vue - Jacob Schatz
 - Vue Builder Pattern example for FormBuilder [see](https://codesandbox.io/s/rmmprvonnm)
 - [vuecommander.com](https://vuecommander.com/) for the command pattern
-- Recommended book: Design Patterns - Elements of Reusable Object-Oriented Software
+- Recommended book: Dive Into Design Patterns from Alexander Shvets
